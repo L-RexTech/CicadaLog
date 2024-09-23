@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" />
+    <stroke
+        android:width="2dp"
+        android:color="#3F51B5" />
+    <corners android:radius="40dp" /> <!-- Half of the ImageView's width/height (80dp/2 = 40dp) -->
+</shape>
